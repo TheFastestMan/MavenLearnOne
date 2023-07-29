@@ -1,0 +1,8 @@
+{
+  "version" : "Test jakarta version",
+  "description" : "Test jakarta description",
+  "listOfTechnologies" : [ {
+    "name" : "Test technology",
+    "description" : "Test technology description"
+  } ]
+}

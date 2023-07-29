@@ -1,0 +1,11 @@
+{
+  "version" : "1.1",
+  "description" : "testing",
+  "listOfTechnologies" : [ {
+    "name" : "Technology 1.0",
+    "description" : "Description 1.0"
+  }, {
+    "name" : "Technology 2.0",
+    "description" : "UpdatedTec Description 2.0"
+  } ]
+}
